@@ -9,50 +9,6 @@
 🛠️ Tecnologias que Domino
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React Native" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" /> </p>
-💼 Experiência
-Viveza — Desenvolvedor Full Stack Pleno I
-
-📍 Divinópolis/MG | 🗓️ Março de 2025 – Atual
-
-    Criação de sistemas com React, Laravel, Node.js
-
-    Aplicações para orçamentos, links de pagamento, e áreas financeiras e fiscais
-
-    Deploy contínuo com AWS e servidores internos
-
-Viveza — Desenvolvedor Full Stack (diversas funções)
-
-🗓️ De Set/2022 até o presente
-
-    Estágios e promoções até o nível Pleno I
-
-    Desenvolvimento contínuo com React, Laravel e NodeJS
-
-CNI Divinópolis — Professor de Informática
-
-🗓️ Fev/2022 – Abr/2022
-Soma Contabilidade — Auxiliar de Escritório
-
-🗓️ Abr/2021 – Fev/2022
-🎓 Formação Acadêmica
-
-    Centro Universitário Una
-    Bacharelado em Ciência da Computação (2023 – 2027)
-
-    Universidade Federal de Viçosa
-    Bacharelado em Sistemas de Informação (2023 – Incompleto)
-
-    CNI Divinópolis
-    Web Design (2019 – 2020)
-    Curso de Formação de Instrutores (2021)
-
-📜 Certificações
-
-    Sistemas Computacionais e Segurança
-
-    Pré-Aceleração de Startups
-
-    NLW Connect - React
 
 📊 GitHub Stats
 
