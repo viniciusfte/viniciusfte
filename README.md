@@ -1,8 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius Fernandes Cardoso!</h1> <h3 align="center">💻 Desenvolvedor FullStack | 🚀 Apaixonado por Tecnologia | 🎯 Sempre evoluindo</h3> <p align="center"> <a href="https://www.linkedin.com/in/viniciusfte" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vinicius.fernandes.cardoso2015@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<h1 align="center">👋 Olá, eu sou o Vinicius Fernandes Cardoso!</h1> <h3 align="center">💻 Desenvolvedor FullStack | 🚀 Apaixonado por Tecnologia | 🎯 Sempre evoluindo</h3> <p align="center"> <a href="https://www.linkedin.com/in/viniciusfte" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:viniciusfc.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 👨‍💼 Sobre Mim
 
 ✨ Me chamo Vinicius Fernandes Cardoso, sou Desenvolvedor FullStack com mais de 2 anos de experiência profissional, atualmente trabalhando como Desenvolvedor Full Stack Pleno I na Viveza.
-
 🎓 Curso Ciência da Computação no Centro Universitário Una, com formação prevista para 2027.
 
 💡 Apaixonado por resolver problemas reais com tecnologia, desenvolvendo soluções escaláveis e de alta performance, com foco na experiência do usuário.
