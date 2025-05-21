@@ -13,7 +13,7 @@
 
 ---
 
-## <h3>👨‍💼 Sobre Mim</h3>
+## 👨‍💼 Sobre Mim
 
 ✨ Me chamo Vinicius Fernandes Cardoso, sou Desenvolvedor FullStack com mais de 3 anos de experiência profissional.
 
