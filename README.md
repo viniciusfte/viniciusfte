@@ -14,8 +14,11 @@
 ---
 
 ## <h3>👨‍💼 Sobre Mim</h3>
+
 ✨ Me chamo Vinicius Fernandes Cardoso, sou Desenvolvedor FullStack com mais de 3 anos de experiência profissional.
+
 🎓 Curso Ciência da Computação no Centro Universitário Una, com formação prevista para 2027.<br />
+
 💡 Apaixonado por resolver problemas reais com tecnologia, desenvolvendo soluções escaláveis e de alta performance, com foco na experiência do usuário.<br />
 
 ---
